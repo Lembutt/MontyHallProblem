@@ -1,0 +1,17 @@
+{
+	"config": {
+		"db": {
+			"name": "exp.db"
+		},
+		"default_values": {
+			"attempts": 1000,
+			"change_coomment": [
+				"0 - for randomly change the door",
+				"1 - for always change door",
+				"2 - for not changing the door"
+			],
+			"change": 0,
+			"doors": 100
+		}
+	}
+}
